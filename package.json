@@ -1,0 +1,33 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "This is namaste React by Sid",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sid6308/hello-react.git"
+  },
+  "keywords": [],
+  "author": "Siddharth Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sid6308/hello-react/issues"
+  },
+  "homepage": "https://github.com/sid6308/hello-react#readme",
+  "devDependencies": {
+    "parcel": "^2.8.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.13.0"
+  },
+  "browsersList": [
+    "last 2 versions"
+  ]
+}
